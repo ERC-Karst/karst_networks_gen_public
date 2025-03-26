@@ -3,6 +3,8 @@
 This repository is published under the BSD-3-Clause license, it accompanies the following work :
 - Lauzon, D., Straubhaar, J., Renard, P. (2025). A Deep Generative Model for the Simulation of Discrete Karst Networks. *Earth and Space Science (submitted)*.
 
+Citation in the paper: [![DOI](https://zenodo.org/badge/952491433.svg)](https://doi.org/10.5281/zenodo.15090729)
+
 ## Specific classes and functions
 The directory `utils` contains python scripts defining classes and functions required to run the tests.
 
